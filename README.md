@@ -1,8 +1,5 @@
-- 👋 Sup memers, I’m @Sonic-and-Friends
-- 👀 I’m interested in making videos, memes, music, mods, and video games.
-- 🌱 I’m currently learning to program.
-- 💞️ I’m looking to collaborate on Friday Night Funkin': Vs. Charli.
-- 📫 How to reach me: You can find me on Discord. Username is SonicAndFriends#5975.
+- 👋 hi i'm b3nreality
+- i am a musician, a beginner programmer, and a content creator
 
 <!---
 Sonic-and-Friends/Sonic-and-Friends is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
